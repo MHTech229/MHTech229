@@ -4,7 +4,6 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel+Decorative&color=3c1361&center=true&vCenter=true&lines=MEHINTO+Charbel+%40MHTech229;A+passionate+and+Enthusiastic+;Front-end+developer+from+Benin+;Nice+to+Meet+You">
     <h4 align="center">I love JavaScript & PHP and I love Sharing knowledges</h4>
-
     <h4 align="center">I'm a front end developper and I realise somes websites , applications and Templates.
     I also create tutorials and Template's videos for my Youtube Channel</h4>
 </p>
@@ -57,7 +56,7 @@
                 </h3>
                 <p align="center">
                     <a href="https://mehintocharbel.com/" target="_blank" rel="noreferrer"> <img src="
-                    https://github.com/MHTech229/MHTech229/blob/main/Gifs/Onepage.gif"  alt="MHTech229's Personal Blog"/> </a>
+                    https://github.com/MHTech229/MHTech229/blob/main/Gifs/gif7.gif"  alt="MHTech229's Personal Blog"/> </a>
                     <p align="center">
                         This is an awesome responsive restaurant one page website. It is a static Restaurant landing page to present a restaurant with its features. We can also send a suscribe mail to an admin.
                     </p>
@@ -147,5 +146,5 @@
 </p>  
 
 <div align="center">
-        <img align="center" style="width:auto; height:400px;" src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/gif4.gif">
+        <img align="center" style="width:auto; height:300px;" src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/gif1.gif">
 </div>
