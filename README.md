@@ -4,7 +4,7 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel+Decorative&color=3c1361&center=true&vCenter=true&lines=MEHINTO+Charbel+%40MHTech229;A+passionate+and+Enthusiastic+;Front-end+developer+from+Benin+;Nice+to+Meet+You">
     <h4 align="center">I love JavaScript & PHP and I love Sharing knowledges</h4>
-<br>
+
     <h4 align="center">I'm a front end developper and I realise somes websites , applications and Templates.
     I also create tutorials and Template's videos for my Youtube Channel</h4>
 </p>
