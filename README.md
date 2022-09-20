@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/Hi.gif" height="55px" width="55px"> I'm MEHINTO Charbel</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel+Decorative&color=3c1361&center=true&vCenter=true&lines=MEHINTO+Charbel+%40MHTech229;A+passionate+and+Enthusiastic+;Front-end+developer+from+Benin+;Nice+to+Meet+You">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel+Decorative&color=3c1361&center=true&vCenter=true&lines=MEHINTO+Charbel+%40MHTech229;A+passionate+and+Enthusiastic+;Full Stack+developer+from+Benin+;Nice+to+Meet+You">
     <h4 align="center">I love JavaScript & PHP and I love Sharing knowledges</h4>
     <h4 align="center">I'm a front end developper and I realise somes websites , applications and Templates.
     I also create tutorials and Template's videos for my Youtube Channel</h4>
@@ -56,7 +56,7 @@
                 </h3>
                 <p align="center">
                     <a href="https://bit.ly/3yOE9Sw/" target="_blank" rel="noreferrer"> <img src="
-                    https://github.com/MHTech229/MHTech229/blob/main/Gifs/Onepage.gif"  alt="MHTech229's Personal Blog"/> </a>
+                    https://github.com/MHTech229/MHTech229/blob/main/Gifs/Page.png"  alt="MHTech229's Personal Blog"/> </a>
                     <p align="center">
                         This is an awesome responsive restaurant one page website. It is a static Restaurant landing page to present a restaurant with its features. We can also send a suscribe mail to an admin.
                     </p>
@@ -100,12 +100,15 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-                     </p>
+                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/SQL.png" alt="SQL Icon"/>
+</p>
             </p>
             <p align="center"> 
                      <h4 align="center">Frameworks</h4>
                      <p align="center"> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/Laravel.png" alt="Laravel Icon"/>
+                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/Angular.png" alt="Angular Icon"/>
                      </p>
             </p>
             <p align="center"> 
