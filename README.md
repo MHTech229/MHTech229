@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/Hi.gif" height="55px" width="55px"> I'm MEHINTO Charbel</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel+Decorative&color=3c1361&center=true&vCenter=true&lines=MEHINTO+Charbel+%40MHTech229;A+passionate+and+Enthusiastic+;Full Stack+developer+from+Benin+;Nice+to+Meet+You">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel+Decorative&color=3c1361&center=true&vCenter=true&lines=MEHINTO+Charbel+%40MHTech229;A+passionate+and+Enthusiastic+;Full-Stack+developer+from+Benin+;Nice+to+Meet+You">
     <h4 align="center">I love JavaScript & PHP and I love Sharing knowledges</h4>
     <h4 align="center">I'm a front end developper and I realise somes websites , applications and Templates.
     I also create tutorials and Template's videos for my Youtube Channel</h4>
