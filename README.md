@@ -56,7 +56,7 @@
                 </h3>
                 <p align="center">
                     <a href="https://bit.ly/3yOE9Sw/" target="_blank" rel="noreferrer"> <img src="
-                    https://github.com/MHTech229/MHTech229/blob/main/Gifs/Giffy.gif"  alt="MHTech229's Personal Blog"/> </a>
+                    https://github.com/MHTech229/MHTech229/blob/main/Gifs/nightlight.jpg"  alt="MHTech229's Personal Blog"/> </a>
                     <p align="center">
                         This is an awesome responsive restaurant one page website. It is a static Restaurant landing page to present a restaurant with its features. We can also send a suscribe mail to an admin.
                     </p>
