@@ -76,12 +76,12 @@
         </tr>
   </table>
 </div>
-<h3 align="center">My Github Stats</h3>
-<p align="center">
-    <a href="https://github.com/MHTech229/MHTech229"><img alt="MHTech229's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=MHTech229&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
-    <a href="https://github.com/MHTech229/MHTech229"><img alt="MHTech229's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MHTech229&show_icons=true&hide_border=true&theme=midnight-purple" width=55%/></a>
-    <a href="https://github.com/MHTech229/MHTech229"><img alt="MHTech229's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHTech229&layout=compact&langs_count=6&hide_border=true&theme=midnight-purple" width=40%/></a>
-</p>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mhtech229&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhtech229&langs_count=10&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 <p align="center"> 
         <h3 align="center">My technicals Skills</h3>
