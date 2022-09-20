@@ -56,7 +56,7 @@
                 </h3>
                 <p align="center">
                     <a href="https://bit.ly/3yOE9Sw/" target="_blank" rel="noreferrer"> <img src="
-                    https://github.com/MHTech229/MHTech229/blob/main/Gifs/Page.png"  alt="MHTech229's Personal Blog"/> </a>
+                    https://github.com/MHTech229/MHTech229/blob/main/Gifs/Giffy.gif"  alt="MHTech229's Personal Blog"/> </a>
                     <p align="center">
                         This is an awesome responsive restaurant one page website. It is a static Restaurant landing page to present a restaurant with its features. We can also send a suscribe mail to an admin.
                     </p>
@@ -100,15 +100,15 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/SQL.png" alt="SQL Icon"/>
+                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/SQL.png" alt="SQL Icon" style="width:40px;height:40px;" />
 </p>
             </p>
             <p align="center"> 
                      <h4 align="center">Frameworks</h4>
                      <p align="center"> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/Laravel.png" alt="Laravel Icon"/>
-                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/Angular.png" alt="Angular Icon"/>
+                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/Laravel.png" alt="Laravel Icon" style="width:40px;height:40px;" />
+                        <img src="https://github.com/MHTech229/MHTech229/blob/main/Gifs/Angular.png" alt="Angular Icon" style="width:40px;height:40px;" />
                      </p>
             </p>
             <p align="center"> 
