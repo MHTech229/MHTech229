@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=435&lines=4%2B+Years+of+Experience;Full+Stack+Developer;VueJS%2C+NestJS%2C+Supabase%2C+Docker;Remote-Ready+and+Fluent+in+English+%26+French" alt="Typing SVG" />
 </p>
 
----
 
 ### 🧑‍💻 About Me
 
