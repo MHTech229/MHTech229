@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charbel MEHINTO</h1>
 <h3 align="center">Full Stack Web Developer | VueJS • NestJS • PostgreSQL | Remote-Ready</h3>
 
-<p align="center" padding="50px 0px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=435&lines=4%2B+Years+of+Experience;Full+Stack+Developer;VueJS%2C+NestJS%2C+Supabase%2C+Docker;Remote-Ready+and+Fluent+in+English+%26+French" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B0082&center=true&vCenter=true&multiline=true&width=600&height=70&lines=4%2B+Years+of+Experience;Full+Stack+Developer;VueJS%2C+NestJS%2C+Supabase%2C+Docker;Remote-Ready+and+Fluent+in+English+%26+French" alt="Typing SVG" />
 </p>
+
+<br/><br/>
 
 ---
 
@@ -11,7 +13,7 @@
 
 - 💻 I’ve been building modern web apps since **2021**
 - 🌍 I’m open to **remote opportunities** and international collaboration
-- 🛠️ My favorite stack: **Vue.js, NestJS, PostgreSQL, Supabase, Docker**
+- 🛠️ My favorite stack: **Vue.js, React.js, NestJS, PostgreSQL, Supabase, Docker**
 - 📄 All my projects & portfolio: [mehinto-charbel.vercel.app](https://mehinto-charbel.vercel.app)
 
 ---
@@ -56,10 +58,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHTech229&show_icons=true&theme=tokyonight" alt="MHTech229 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MHTech229&show_icons=true&theme=blueberry" alt="MHTech229 GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHTech229&layout=compact&theme=tokyonight" alt="MHTech229 most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHTech229&layout=compact&theme=blueberry" alt="MHTech229 most used languages" />
 </p>
 
 ---
@@ -69,5 +71,3 @@
 - 📧 Email: mehintocharbel@gmail.com  
 - 🌐 Portfolio: [mehinto-charbel.vercel.app](https://mehinto-charbel.vercel.app)  
 - 🔗 LinkedIn: [Ange-Marie Charbel MEHINTO](https://www.linkedin.com/in/ange-marie-charbel-mehinto/)
-
----
