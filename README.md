@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charbel MEHINTO</h1>
-<h3 align="center">Full Stack Web Developer | VueJS • NestJS • PostgreSQL | Remote-Ready</h3>
+<h3 align="center">Full Stack Web Developer | ReactJS • VueJS • NestJS • PostgreSQL | Remote-Ready</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B0082&center=true&vCenter=true&multiline=true&width=600&height=70&lines=4%2B+Years+of+Experience;Full+Stack+Developer;VueJS%2C+NestJS%2C+Supabase%2C+Docker;Remote-Ready+and+Fluent+in+English+%26+French" alt="Typing SVG" />
@@ -45,13 +45,13 @@
 #### 📄 PDF Generator API  
 > Generates dynamic PDF documents from HTML templates using Puppeteer  
 🛠️ Stack: NestJS, Puppeteer, Docker  
-🔗 [Demo](https://pdf-generator-nest.vercel.app)
+🔗 [Code](https://github.com/MHTech229/pdf-generator-api)
 
 #### 🔐 Auth Kits (Supabase-based)  
-- ReactJS + Supabase + NestJS → [Demo](https://auth-kit-react.vercel.app)  
-- VueJS + Supabase + NestJS → [Demo](https://auth-kit-vue.vercel.app)  
-- NuxtJS + Supabase → [Demo](https://auth-kit-nuxt.vercel.app)  
-- NextJS + NestAuth → [Demo](https://auth-kit-next.vercel.app)
+- ReactJS + Supabase + NestJS → [Demo](https://mht-react-auth-toolbox-app.vercel.app)  
+- VueJS + Supabase + NestJS → [Demo](https://mht-vue-auth-toolbox-app.vercel.app)  
+- NuxtJS + Supabase → [Demo](https://nuxt-auth-toolkit.vercel.app)  
+- NextJS + NestAuth → [Demo](https://mht-next-auth-toolkit.vercel.app)
 
 ---
 
