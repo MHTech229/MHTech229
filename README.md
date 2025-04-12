@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | ReactJS • VueJS • NestJS • PostgreSQL | Remote-Ready</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B0082&center=true&vCenter=true&multiline=true&width=600&height=70&lines=4%2B+Years+of+Experience;Full+Stack+Developer;VueJS%2C+NestJS%2C+Supabase%2C+Docker;Remote-Ready+and+Fluent+in+English+%26+French" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B0082&center=true&vCenter=true&multiline=true&width=600&height=100&lines=4%2B+Years+of+Experience;Full+Stack+Developer;VueJS%2C+NestJS%2C+Supabase%2C+Docker;Remote-Ready+and+Fluent+in+English+%26+French" alt="Typing SVG" />
 </p>
 
 <br/><br/>
