@@ -64,17 +64,14 @@ I design and build premium web experiences for startups, founders and modern bus
 > SEO-friendly, scalable and performance-driven web apps  
 🛠️ Stack: Next.js, TypeScript
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MHTech229&show_icons=true&theme=blueberry" alt="GitHub stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHTech229&layout=compact&theme=blueberry" alt="Top languages" />
-</p>
-
+--- 
+### 📈 GitHub Stats 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MHTech229&show_icons=true&theme=blueberry" alt="MHTech229 GitHub stats" /> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHTech229&layout=compact&theme=blueberry" alt="MHTech229 most used languages" /> 
+</p> 
 ---
 
 ## ✉️ Let’s Work Together
