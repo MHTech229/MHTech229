@@ -14,7 +14,7 @@ I design and build premium web experiences for startups, founders and modern bus
 - 🎯 Specialized in **high-conversion landing pages & web apps**
 - 🧠 Strong product & UX mindset (design → interaction → performance)
 - 🌍 Open to **remote collaborations & international clients**
-- 📄 Portfolio & projects: [mehinto-charbel.vercel.app](https://mehinto-charbel.vercel.app)
+- 📄 Portfolio & projects: [mehintocharbel.vercel.app](https://mehintocharbel.vercel.app)
 - 🎥 YouTube: [@mhtwebservices](https://www.youtube.com/@mhtwebservices) (projects, behind-the-scenes & daily workflow)
 
 ---
@@ -54,7 +54,7 @@ I design and build premium web experiences for startups, founders and modern bus
 ### 🌐 Startup & SaaS Landing Pages
 > High-impact landing pages designed for clarity, conversion and speed  
 🛠️ Stack: Figma → Framer / Webflow / Next.js  
-🔗 Portfolio: [mehinto-charbel.vercel.app](https://mehinto-charbel.vercel.app)
+🔗 Portfolio: [mehintocharbel.vercel.app](https://mehintocharbel.vercel.app)
 
 ### 📱 Web App Interfaces
 > Clean dashboards & app interfaces with smooth UX  
@@ -68,7 +68,7 @@ I design and build premium web experiences for startups, founders and modern bus
 ## ✉️ Let’s Work Together
 
 - 📧 Email: **mehintocharbel@gmail.com**
-- 🌐 Portfolio: [mehinto-charbel.vercel.app](https://mehinto-charbel.vercel.app)
+- 🌐 Portfolio: [mehintocharbel.vercel.app](https://mehintocharbel.vercel.app)
 - 🔗 LinkedIn: [Ange-Marie Charbel MEHINTO](https://www.linkedin.com/in/ange-marie-charbel-mehinto/)
 - 🎥 YouTube: [@mhtwebservices](https://www.youtube.com/@mhtwebservices)
 
